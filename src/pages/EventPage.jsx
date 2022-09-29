@@ -1,8 +1,8 @@
 import React from 'react'
-
+import EventCoponent from '../compoenents/event/EventCoponent'
 const EventPage = () => {
   return (
-    <div>EventPage</div>
+    <EventCoponent/>
   )
 }
 

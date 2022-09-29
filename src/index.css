@@ -15,6 +15,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #F6F2FF;
 }
 
 code {
@@ -36,6 +37,11 @@ code {
   font-size: 14px;
   font-weight: 500;
   color: #ffffff;
+}
+.envited-input{
+  padding: 15px 20px;
+  border-radius: 8px;
+  font-size: 14px;
 }
 
 .envited-btn-lg{

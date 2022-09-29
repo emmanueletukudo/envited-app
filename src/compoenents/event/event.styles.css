@@ -1,0 +1,28 @@
+.event-details{
+  width: 100%;
+}
+
+.birthday-heading {
+  color: #240D57;
+}
+
+.event-text{
+  color: #828282;
+}
+
+.event-name{
+  width: 100%;
+}
+.event-details{
+  font-display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.event-date{
+  max-width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-items: flex-start;
+}

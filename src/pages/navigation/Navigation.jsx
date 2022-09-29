@@ -8,7 +8,7 @@ const Navigation = () => {
     <div>
       <nav className="flex items-center justify-between flex-wrap bg-wite p-6 envited-nav">
         <div className="flex items-center flex-shrink-0 text-black mr-6">
-          <img src={logo} alt="envited.io"/>
+          <Link to="/">Logo</Link>
         </div>
         <div className="block lg:hidden">
           <button className="flex items-center px-3 py-2 text-white rounded envited-btn-gradient hover:text-white hover:border-white">
